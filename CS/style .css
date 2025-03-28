@@ -67,7 +67,7 @@ a {
 .banner {
     width: 100%;
     height: 100vh;
-    background-image:url(../Music-website/Images/ai-generated-8579170_1280.jpg);
+    background-image:url(/Images/ai-generated-8579170_1280.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
